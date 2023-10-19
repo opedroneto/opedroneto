@@ -3,15 +3,12 @@
 <h1 align="center">Hello! I'm Pedro Neto</h1>
 <h5 align="center">Software Engineering Student 🎓 | UCS 🏛️ | Backend Developer in training 🖥️ | Embracing the coding journey at Cubos Academy 🚀</h5>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=opedroneto&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=opedroneto&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opedroneto&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=opedroneto&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
+| ----------- | ----------- | 
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=opedroneto&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opedroneto&theme=radical) |
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=opedroneto&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=opedroneto&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
-
+<br>
 
 ## My Skills
 
