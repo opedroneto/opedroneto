@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A262B&height=120&section=header"/>
 
 <h1 align="center">Hello! I'm Pedro Neto</h1>
-<h5 align="center">Software Engineering Student 🎓 | UCS 🏛️ | Backend Developer in training 🖥️ | Embracing the coding journey at Cubos Academy 🚀</h5>&nbsp;
+<h5 align="center">Software Engineering Student 🎓 | UCS 🏛️ | Backend Developer in training 🖥️</h5>&nbsp;
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opedroneto&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=opedroneto&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
 | ----------- | ----------- | 
