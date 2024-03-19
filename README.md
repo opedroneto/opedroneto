@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2A262B&height=120&section=header"/>
 
 <h1 align="center">Hello! I'm Pedro Neto</h1>
-<h5 align="center">Software Engineering Student 🎓 | UCS 🏛️ | Backend Developer in training 🖥️</h5>&nbsp;
+<h5 align="center">Software Engineering Student 🎓 | PUC-RS 🏛️ | Backend Developer in training 🖥️</h5>&nbsp;
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opedroneto&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=opedroneto&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
 | ----------- | ----------- | 
@@ -32,11 +32,8 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/_pedronetoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href = "mailto:pedro.vaz3@icloud.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedrovazneto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://medium.com/@pedro.vaz3" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a>  
+<a href="https://www.linkedin.com/in/pedrovazneto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>   
 <a href="https://discord.com/pedrovazneto" target="_blank"><img src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=white"  target="_blank"></a>
 </div>&nbsp;&nbsp;
  
