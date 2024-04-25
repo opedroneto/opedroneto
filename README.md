@@ -41,11 +41,17 @@
 
 ---
 
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opedroneto&theme=radical&show_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=opedroneto&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
-| ----------- | ----------- | 
-| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=opedroneto&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opedroneto&theme=radical) |
+<div align='center'>
 
- 
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=opedroneto&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroneto&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
+
+</div>
 
   
   
